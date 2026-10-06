@@ -1,8 +1,11 @@
 <h1 align="center">
   <a href="https://github.com/antran19">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7347A&center=true&vCenter=true&width=600&lines=Hi+I+am+An+Tran;Backend+and+Microservices+Developer;Building+Project+Nexus" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7347A&center=true&vCenter=true&width=600&lines=Hi+I+am+An+Tran;Backend+Developer;Building+Project+Nexus" alt="Typing SVG" />
   </a>
 </h1>
+
+<p align="center">🇻🇳</p>
+
 
 
 ## 🌐 Socials:
@@ -32,6 +35,9 @@
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
