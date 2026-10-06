@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7347A&center=true&vCenter=true&width=600&lines=Hi,+I'm+An+Tran+👋;Backend+%26+Microservices+Developer;Building+Project+Nexus" alt="Typing SVG" />
+  <a href="https://github.com/antran19">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7347A&center=true&vCenter=true&width=600&lines=Hi+I+am+An+Tran;Backend+and+Microservices+Developer;Building+Project+Nexus" alt="Typing SVG" />
+  </a>
 </h1>
+
 
 ## 🌐 Socials:
 
